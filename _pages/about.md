@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to Sihyun Park's Website!
 ======
-I am an undergraduate student at [KAIST](https://www.kaist.ac.kr/en/), majoring in Chemistry with a minor in Computer Science. I am interested in drug discovery and artificial intelligence. Currently, I am conducting research on artificial intelligence for drug discovery under the supervision of [Prof. Woo Youn Kim](https://wooyoun.kaist.ac.kr/). Outside the lab, I enjoy taking photos, running, and watching baseball games.
+I am an undergraduate student at [KAIST](https://www.kaist.ac.kr/en/), majoring in **Chemistry** with a minor in **Computer Science**. I am interested in **drug discovery** and **artificial intelligence**. Currently, I am conducting research on artificial intelligence for drug discovery under the supervision of [Prof. Woo Youn Kim](https://wooyoun.kaist.ac.kr/). Outside the lab, I enjoy taking photos, running, and watching baseball games.
 
 Getting started
 ======
