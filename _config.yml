@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Drug Discovery, Artificial Intelligence"
   location         : "Deajeon, Korea"
-  employer         : "KAIST"
+  employer         : [KAIST](https://www.kaist.ac.kr/en/)
   uri              : # URL
   email            : "99mrzzang@gmail.com" 
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # https://www.instagram.com/99.sihyun/
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/sihyunpark1999/
+  linkedin         : sihyunpark1999
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
