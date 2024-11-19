@@ -12,8 +12,22 @@ redirect_from:
 I am an undergraduate student at [KAIST](https://www.kaist.ac.kr/en/), majoring in **Chemistry** with a minor in **Computer Science**. I am interested in **drug discovery** and **artificial intelligence**. Currently, I am conducting research on artificial intelligence for drug discovery under the supervision of [Prof. Woo Youn Kim](https://wooyoun.kaist.ac.kr/). I am expected to graduate in February 2025.
 Outside the lab, I enjoy taking photos, running, and watching baseball games.
 
-Getting started
+Education
 ======
+Korea Advanced Institute of Science and Technology (KAIST) <span style="font-weight:normal">Feb. 2018 - Feb. 2025 (Expected)</span>
+------
+* Bachelor of Science in Chemistry, Minor in Computer Science, Advanced Major in Chemistry
+* Total GPA of 4.01 / 4.30
+* Military Service: Jan. 2020 - Jul. 2021
+
+Korea Advanced Institute of Science and Technology (KAIST)
+------
+* Bachelor of Science in Chemistry, Minor in Computer Science, Advanced Major in Chemistry
+* Total GPA of 4.01 / 4.30
+* Military Service: Jan. 2020 - Jul. 2021
+
+
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
