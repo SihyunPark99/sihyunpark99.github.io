@@ -1,10 +1,12 @@
 /* 전체 카드 컨테이너 스타일 */
 .card-container {
-   display: flex;
-   gap: 20px;
-   justify-content: space-between;
-   flex-wrap: wrap;
- }
+  display: flex;
+  flex-wrap: wrap; /* 여러 줄로 배치 */
+  gap: 10px; /* 카드 간의 간격 조정 (여백 줄이기) */
+  justify-content: flex-start; /* 왼쪽 정렬 */
+  align-items: flex-start; /* 세로 정렬 기준도 왼쪽 */
+  margin-left: 0; /* 필요시 전체 여백 제거 */
+}
  
  /* 카드 기본 스타일 */
  .card {
