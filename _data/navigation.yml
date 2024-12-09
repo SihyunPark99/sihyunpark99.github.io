@@ -8,8 +8,8 @@ main:
   - title: "About Me"
     url: /
 
-#  - title: "Research"
-#    url: /research/    
+  - title: "Research"
+    url: /research/    
 
 #  - title: "Extracurricular"
 #    url: /extracurricular/
