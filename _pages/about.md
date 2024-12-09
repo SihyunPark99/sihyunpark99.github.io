@@ -11,9 +11,9 @@ I am an undergraduate student at [KAIST](https://www.kaist.ac.kr/en/), majoring 
 Outside the lab, I enjoy taking photos, running, and watching baseball games.
 
 Education
-======
-Korea Advanced Institute of Science and Technology (KAIST) <span style="font-weight:normal">Feb. 2018 - Feb. 2025 (Expected)</span>
-------
+## Korea Advanced Institute of Science and Technology (KAIST) 
+<span style="font-weight:normal">Feb. 2018 - Feb. 2025 (Expected)</span>
+
 * Bachelor of Science in Chemistry, Minor in Computer Science, Advanced Major in Chemistry
 * Total GPA of 4.01 / 4.30
 * Military Service: Jan. 2020 - Jul. 2021
