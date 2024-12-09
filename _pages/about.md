@@ -17,8 +17,10 @@ Outside the lab, I enjoy taking photos, running, and watching baseball games.
 * Total GPA of 4.01 / 4.30
 * Military Service: Jan. 2020 - Jul. 2021
 
+## Georgia Institute of Technology
+* Aug. 2022 – May. 2023
+* Exchange Student
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h2 style="margin: 0; font-weight: bold;">Feedback Connectivity Analysis in Recurrent Neural Networks</h2>
-  <span style="font-size: 14px; font-weight: normal;">Jan, 2022 – Dec, 2022</span>
-</div>
+## Korea Science Academy (KSA) of KAIST
+* Mar. 2015 – Feb. 2018
+* A special high school for science-gifted students
