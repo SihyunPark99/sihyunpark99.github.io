@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Drug Discovery, Artificial Intelligence"
   location         : "Deajeon, Korea"
-  employer         : "[KAIST](https://www.kaist.ac.kr/en/)"
+  employer         : '<a href="https://www.kaist.ac.kr/en/" target="_blank">KAIST</a>'
   uri              : # URL
   email            : "99mrzzang@gmail.com" 
 
