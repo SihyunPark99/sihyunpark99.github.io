@@ -10,7 +10,7 @@ redirect_from:
 I am an undergraduate student at [KAIST](https://www.kaist.ac.kr/en/), majoring in **Chemistry** with a minor in **Computer Science**. I am interested in **drug discovery** and **artificial intelligence**. Currently, I am conducting research on artificial intelligence for drug discovery under the supervision of [Prof. Woo Youn Kim](https://wooyoun.kaist.ac.kr/). I am expected to graduate in February 2025.
 Outside the lab, I enjoy taking photos, running, and watching baseball games.
 
-## Education
+## <span style="border-bottom: none; box-shadow: none;">Education</span>
 ### Korea Advanced Institute of Science and Technology (KAIST) 
 * Feb. 2018 - Feb. 2025 (Expected)
 * Bachelor of Science in Chemistry, Minor in Computer Science, Advanced Major in Chemistry
