@@ -18,6 +18,15 @@ redirect_from:
   </a>
 
   <a href="card2" class="card" target="_blank">
+    <img src="../images/URP.png" alt="urp" class="card-image">
+    <div class="card-content">
+      <h3 class="card-title">A Non-Structure-Based Protein-Ligand Interaction Prediction Model by Pharmacophore Modeling for Virtual Screening</h3>
+      <p class="card-description">Intelligent Chemistry Lab, KAIST</p>
+    </div>
+  </a>
+
+
+  <a href="card3" class="card" target="_blank">
     <img src="../images/hudlab.png" alt="hudlab" class="card-image">
     <div class="card-content">
       <h3 class="card-title">The Origin of Life and the History of RNA</h3>

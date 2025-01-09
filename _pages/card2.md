@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "The Origin of Life and the History of RNA"
+title: "A Non-Structure-Based Protein-Ligand Interaction Prediction Model by Pharmacophore Modeling for Virtual Screening"
 permalink: /card2
 author_profile: true
 redirect_from: 
   - /card2
 ---
-![Surrogate](../images/presentation2.png)
-Abstract: Elucidating the origin of RNA is one of the most important components of understanding the chemical origins of life. The current nucleobases, as free bases or mononucleotides, do not form Watson-Crick base pairs in an aqueous solution, in the absence of a sophisticated enzyme. Hence, we have proposed that the informational polymer of life has chemically evolved from an earlier informational polymer with nucleobases that were able to self-assemble as monomers on the prebiotic Earth, prior to the emergence of RNA polymers. Our laboratory has revealed that several plausible prebiotic heterocycles, including derivates of melamine and barbituric acid, achieve self-assembly in water. By systematically changing the exocyclic modifications of such candidate ancestral nucleobases, we are able to propose candidate structures for pre-RNA-monomers and polymers, find investigate their propensity for self-assembly. Here, we report on the synthesis of a proto-nucleobase-tagged tetrapeptide  by solid-phase peptide synthesis (SPPS).
+![URP](../images/urpfull.png)
+Abstract: Since virtual screening for drug development requires searching a huge library of drug- like molecules, there is an increasing emphasis on the need for more cost-efficient virtual screening methods. However, most deep-learning-based virtual screening models still rely on time-consuming molecular docking processes. Instead of modeling all atomistic interactions, non-structure-based virtual screening is emerging as an alternative to accelerate the screening process. In this regard, we introduce NCIBind, a deep-learning model for virtual screening and binding affinity prediction without using molecular docking information. Rather than re- lying on molecular docking, NCIBind utilizes protein-ligand interactions at the non-covalent interaction level. Moreover, NCIBind is designed to perform binding both affinity prediction and virtual screening by multi-objective learning. Consequently, our model surpassed most existing non-structure-based deep learning models on virtual screening benchmarks while de- livering satisfactory binding affinity prediction performance. Our study reveals a promising future for AI-driven drug discovery with robust and versatile deep-learning models.
 
 {% include base_path %}

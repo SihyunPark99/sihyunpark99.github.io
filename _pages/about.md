@@ -14,7 +14,7 @@ Outside the lab, I enjoy taking photos, running, and watching baseball games.
 ### Korea Advanced Institute of Science and Technology (KAIST) 
 * Feb. 2018 - Feb. 2025 (Expected)
 * Bachelor of Science in Chemistry, Minor in Computer Science, Advanced Major in Chemistry
-* Total GPA of 4.01 / 4.30
+* Total GPA of 4.01 / 4.30 (3.88 / 4.00)
 * Military Service: Jan. 2020 - Jul. 2021
 
 ### Georgia Institute of Technology
