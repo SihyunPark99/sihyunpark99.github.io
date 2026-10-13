@@ -9,7 +9,9 @@ redirect_from:
 
 
 I am a second-year M.S. student in [Automated Science](https://www.cmu.edu/cbd/msas/) at Carnegie Mellon University, within the [Computational Biology Department](https://www.cmu.edu/cbd/) of the [School of Computer Science](https://www.cs.cmu.edu/). I am currently working with [Prof. David Koes](https://bits.csb.pitt.edu/) at the University of Pittsburgh and [Prof. Olexandr Isayev](https://olexandrisayev.com/) at Carnegie Mellon University. My research focuses on **artificial intelligence for drug discovery**, particularly molecular generative models and discrete diffusion methods.
+
 Previously, I received my B.S. in Chemistry with a minor in Computer Science from [KAIST](https://www.kaist.ac.kr/en/), where I worked with [Prof. Woo Youn Kim](https://wooyoun.kaist.ac.kr/).
+
 Outside the lab, I enjoy taking photos, running, and watching baseball games.
 
 ## Selected Publications
